@@ -18,8 +18,6 @@ const Square = ({ children, isSelected, updateBoard, index}) => {
       {children}
     </div>
   )
-
-  un cambio
 }
 
 function App() {
